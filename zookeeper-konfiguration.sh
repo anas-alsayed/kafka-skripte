@@ -1,6 +1,6 @@
 #!/bin/bash
 #----------------------------------------------------------------------------------
-# File		  : zookeeper-konfiguration.sh
+# File	      : zookeeper-konfiguration.sh
 # Version     : 1.0.0.0
 # Author      : Anas Al Sayed
 # Zweck       : Mithilfe dieses Skript werden Konfigurationen aus einer CSV Datei gelesen und die *.properties Dateien für die ZooKeeper erstellt.
