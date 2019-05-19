@@ -1,5 +1,5 @@
 z_name;z_hosts;z_clientPort;z_leaderPort;z_electionport;tickTime;initLimit;syncLimit;snapRetainCount;purgeInterval
-aaaacl1z1,10.0.0.1,2180;2890,3890,2000,5,2,3,24
+aaaacl1z1;10.0.0.1;2180;2890;3890;2000;5;2;3;24
 aaaacl1z2;10.0.0.2;2181;2891;3891;2000;5;2;3;24
 aaaacl1z3;10.0.0.2;2182;2892;3892;2000;5;2;3;24
 bbbbcl1z1;10.0.0.3;2183;2893;3893;2000;5;2;3;24
