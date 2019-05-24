@@ -1,0 +1,13 @@
+b_name;b_id;port;num_Partition;leader_rebalance;recovery_thread;off_rep_fa;log_rep_fa;zookeeper;metrics_repo;repo_server
+aaaacl1b1;0;9090;3;auto.leader.rebalance.enable=true;8;3;3;10.0.0.1:2180,10.0.0.2:2181,10.0.0.2:2182;metric.reporters=io.confluent.metrics.reporter.ConfluentMetricsReporter;10.0.0.7:9099,10.0.0.7:9100,10.0.0.8:9101
+aaaacl1b2;1;9091;3;auto.leader.rebalance.enable=true;8;3;3;10.0.0.1:2180,10.0.0.2:2181,10.0.0.2:2182;metric.reporters=io.confluent.metrics.reporter.ConfluentMetricsReporter;10.0.0.7:9099,10.0.0.7:9100,10.0.0.8:9101
+aaaacl1b3;2;9092;3;auto.leader.rebalance.enable=true;8;3;3;10.0.0.1:2180,10.0.0.2:2181,10.0.0.2:2182;metric.reporters=io.confluent.metrics.reporter.ConfluentMetricsReporter;10.0.0.7:9099,10.0.0.7:9100,10.0.0.8:9101
+bbbbcl1b1;0;9093;3;auto.leader.rebalance.enable=true;8;3;3;10.0.0.3:2183,10.0.0.4:2184,10.0.0.4:2185;metric.reporters=io.confluent.metrics.reporter.ConfluentMetricsReporter;10.0.0.7:9099,10.0.0.7:9100,10.0.0.8:9101
+bbbbcl1b2;1;9094;3;auto.leader.rebalance.enable=true;8;3;3;10.0.0.3:2183,10.0.0.4:2184,10.0.0.4:2185;metric.reporters=io.confluent.metrics.reporter.ConfluentMetricsReporter;10.0.0.7:9099,10.0.0.7:9100,10.0.0.8:9101
+bbbbcl1b3;2;9095;3;auto.leader.rebalance.enable=true;8;3;3;10.0.0.3:2183,10.0.0.4:2184,10.0.0.4:2185;metric.reporters=io.confluent.metrics.reporter.ConfluentMetricsReporter;10.0.0.7:9099,10.0.0.7:9100,10.0.0.8:9101
+cccccl1b1;0;9096;3;auto.leader.rebalance.enable=true;8;3;3;10.0.0.5:2186,10.0.0.6:2187,10.0.0.6:2188;metric.reporters=io.confluent.metrics.reporter.ConfluentMetricsReporter;10.0.0.7:9099,10.0.0.7:9100,10.0.0.8:9101
+cccccl1b2;1;9097;3;auto.leader.rebalance.enable=true;8;3;3;10.0.0.5:2186,10.0.0.6:2187,10.0.0.6:2188;metric.reporters=io.confluent.metrics.reporter.ConfluentMetricsReporter;10.0.0.7:9099,10.0.0.7:9100,10.0.0.8:9101
+cccccl1b3;2;9098;3;auto.leader.rebalance.enable=true;8;3;3;10.0.0.5:2186,10.0.0.6:2187,10.0.0.6:2188;metric.reporters=io.confluent.metrics.reporter.ConfluentMetricsReporter;10.0.0.7:9099,10.0.0.7:9100,10.0.0.8:9101
+ddddcl1b1;0;9099;4;auto.leader.rebalance.enable=true;8;3;3;10.0.0.7:2189,10.0.0.8:2190,10.0.0.8:2191;metric.reporters=io.confluent.metrics.reporter.ConfluentMetricsReporter;10.0.0.7:9099,10.0.0.7:9100,10.0.0.8:9101
+ddddcl1b2;1;9100;4;auto.leader.rebalance.enable=true;8;3;3;10.0.0.7:2189,10.0.0.8:2190,10.0.0.8:2191;metric.reporters=io.confluent.metrics.reporter.ConfluentMetricsReporter;10.0.0.7:9099,10.0.0.7:9100,10.0.0.8:9101
+ddddcl1b3;2;9101;4;auto.leader.rebalance.enable=true;8;3;3;10.0.0.7:2189,10.0.0.8:2190,10.0.0.8:2191;metric.reporters=io.confluent.metrics.reporter.ConfluentMetricsReporter;10.0.0.7:9099,10.0.0.7:9100,10.0.0.8:9101
