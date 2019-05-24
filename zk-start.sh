@@ -1,6 +1,6 @@
 #!/bin/bash
 #----------------------------------------------------------------------------------
-# File		  : zk-start.sh
+# File	      : zk-start.sh
 # Version     : 1.0.0.0
 # Author      : Anas Al Sayed
 # Zweck       : ZooKeeper werden mithilfe dieses Skripts gestartet
