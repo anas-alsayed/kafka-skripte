@@ -1,28 +1,28 @@
 # kafka-skripte
 
-zookeeper-konfiguration.sh
+# zookeeper-konfiguration.sh
 
 Dieses skript hilft dabei, Properties-Datein für eine beliebige Anzahl von ZooKeeper zu erstellen.
 Die Konfigurationen werden aus einer CSV-Datei gelsesen. Ein Muster CSV-Datei ist auch im Repository zu finden (zkeeper-Konfiguration.csv).
 
 
-broker-konfiguration.sh
+# broker-konfiguration.sh
 
 Dieses skript hilft dabei, Properties-Datein für eine beliebige Anzahl von Brokern zu erstellen.
 Die Konfigurationen werden aus einer CSV-Datei gelsesen. Ein Muster CSV-Datei ist auch im Repository zu finden (Broker-Konfiguration.csv).
 
-bk-start.sh
+# bk-start.sh
 
-Siese skript startrt den Broker anhand von seinem Namen. Der Name wird aus der Properties-Datei entnommen.
+Diese skript startrt den Broker anhand von seinem Namen. Der Name wird aus der Properties-Datei entnommen.
 
-bk-stop.sh
+# bk-stop.sh
 
-Siese skript stoppt den Broker anhand von seinem Namen. Der Name wird aus der Properties-Datei entnommen.
+Diese skript stoppt den Broker anhand von seinem Namen. Der Name wird aus der Properties-Datei entnommen.
 
-zk-start.sh	
+# zk-start.sh	
 
-Siese skript startet den ZooKeeper anhand von seinem Namen. Der Name wird aus der Properties-Datei entnommen.
+Diese skript startet den ZooKeeper anhand von seinem Namen. Der Name wird aus der Properties-Datei entnommen.
 
-zk-stop.sh	
+# zk-stop.sh	
 
-Siese skript stoppt den ZooKeeper anhand von seinem Namen. Der Name wird aus der Properties-Datei entnommen.
+Diese skript stoppt den ZooKeeper anhand von seinem Namen. Der Name wird aus der Properties-Datei entnommen.
