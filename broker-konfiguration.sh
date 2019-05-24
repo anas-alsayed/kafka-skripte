@@ -1,6 +1,6 @@
 #!/bin/bash
 #----------------------------------------------------------------------------------
-# File		  : broker-konfiguration.sh.sh
+# File	      : broker-konfiguration.sh.sh
 # Version     : 1.0.0.0
 # Author      : Anas Al Sayed
 # Zweck       : Dieses Skript lise die Konfigurationen aus einer CSV Datei und erstellt die *.properties Dateien für die Brokers.
