@@ -1,6 +1,6 @@
 #!/bin/bash
 #----------------------------------------------------------------------------------
-# File		  : zk-stop.sh
+# File	      : zk-stop.sh
 # Version     : 1.0.0.0
 # Author      : Anas Al Sayed
 # Zweck       : ZooKeeper werden mithilfe dieses Skripts gestoppt
